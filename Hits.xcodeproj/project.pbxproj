@@ -209,6 +209,7 @@
 		2B3C3B6E1D46265500EF7E7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -216,6 +217,7 @@
 		2B3C3B6F1D46265500EF7E7A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
